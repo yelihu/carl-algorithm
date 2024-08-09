@@ -1,4 +1,4 @@
-package org.example.algo.day4_hashtable;
+package org.example.algo.day6_hashtable;
 
 import java.util.HashMap;
 import java.util.Map;

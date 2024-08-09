@@ -1,8 +1,6 @@
-package org.example.algo.day_6_string_two_pointer;
+package org.example.algo.day8_string_1.twopointer;
 
-import java.lang.reflect.Array;
 import java.util.*;
-import java.util.stream.Stream;
 
 /**
  * @author yelihu
